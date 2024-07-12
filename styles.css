@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 html {
     padding:none;
     margin:none;
@@ -23,7 +23,11 @@ img {
 
 p {
     font-size: 16px;
-    padding: 0px 25px 0px 25px;
+    color:hsl(30, 10%, 34%);
+    font-family: outfit;
+    margin:25px 0px 25px 0px;
+    line-height: 25px;
+
 
 }
 
