@@ -36,3 +36,7 @@ h1 {
   margin:auto;
 
 }
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
