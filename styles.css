@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 
-body{
-    background-color: (14, 45%, 36%);
+html {
+    padding:none;
+    margin:none;
 }
 
+body{
+    background-color: (14, 45%, 36%);
+    margin: 0px;
+    padding: 0px;
+}
 
 img {
     width:100%;
