@@ -24,8 +24,13 @@ img {
 p {
     font-size: 16px;
     padding: 0px 25px 0px 25px;
+
 }
 
+.prep {
+    background-color:hsl(330, 100%, 98%);
+    border-radius:5px;
+}
 
 h1 {
   font-family: "Young Serif", serif;
