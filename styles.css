@@ -22,15 +22,12 @@ img {
     width:100%;
 }
 
-
 p {
     font-size: 16px;
     color:hsl(30, 10%, 34%);
     font-family: outfit;
     margin:25px 0px 25px 0px;
     line-height: 25px;
-
-
 }
 
 .prep {
@@ -92,7 +89,7 @@ li {
     padding-left: 30px;
 }
 
-.ingredients-title {
+.section-title {
     font-family: "Young Serif", serif;
 }
 
