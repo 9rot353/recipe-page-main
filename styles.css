@@ -134,7 +134,12 @@ li {
     width: 100%;
 }
 
-.child-container > span {
-    position:relative;
-    left: 200px;
+.child-container > div {
+  flex: 1;
+  text-align: left;
+}
+
+.measure {
+    color: hsl(332, 51%, 32%);
+    font-weight: 700;
 }
