@@ -67,6 +67,7 @@ span {
   /* margin-left: 20px; */
 }
 
+
 ul ::marker {
     color:hsl(332, 51%, 32%);
 }
@@ -109,5 +110,8 @@ li {
 
 .ingredients-section {
     border-bottom: solid hsl(30, 18%, 87%) 1px;
+}
 
+.instructions-section {
+     border-bottom: solid hsl(30, 18%, 87%) 1px;
 }
