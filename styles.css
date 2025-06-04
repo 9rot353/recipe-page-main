@@ -6,11 +6,11 @@ html {
 }
 
 body{
-    background-color: (14, 45%, 36%);
+    background-color: hsl(30, 54%, 90%);
     margin: 0px;
     padding: 0px;
     font-size: 16px;
-    font-family: outfit;;
+    font-family: outfit;
     color: hsl(30, 10%, 34%)
 }
 
@@ -18,10 +18,13 @@ main {
 padding: 25px;
 margin:auto;
 width: 80%;
+border-radius: 20px;
+background-color: hsl(0, 0%, 100%);
 }
 
 img {
     width:100%;
+    border-radius:10px;
 }
 
 p {
