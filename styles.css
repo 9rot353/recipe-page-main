@@ -84,9 +84,19 @@ ul {
     width: 75%;
 }
 
-
 li {
     line-height: 40px;
     text-align: left;
     padding-left: 30px;
+}
+
+.ingredients-title {
+    font-family: "Young Serif", serif;
+}
+
+.ingredients-section {
+
+    color: hsl(30, 10%, 34%);
+    font-family: outfit;
+
 }
