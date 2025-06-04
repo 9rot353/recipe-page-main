@@ -67,9 +67,13 @@ span {
   /* margin-left: 20px; */
 }
 
-.prep-time-details ::marker{
- color:hsl(332, 51%, 32%);
- margin-left:0px;
+
+ul ::marker {
+    color:hsl(332, 51%, 32%);
+}
+
+ol ::marker {
+    color:hsl(332, 51%, 32%);
 }
 
 ul {
@@ -81,6 +85,17 @@ ul {
     margin-inline-end: 0px;
     padding-inline-start: 20px;
     width: 75%;
+}
+
+ol {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 20px;
+    width: 75%;
+
 }
 
 li {
