@@ -67,6 +67,7 @@ span {
   /* margin-left: 20px; */
 }
 
+/* list styles */
 
 ul ::marker {
     color:hsl(332, 51%, 32%);
